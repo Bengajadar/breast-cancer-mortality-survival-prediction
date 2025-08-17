@@ -20,12 +20,18 @@ The aim is to provide healthcare professionals with a data-driven decision suppo
 - Ensures patient privacy — no PII stored or processed
 
 ## 📂 Project Contents
-- `app.py` – Streamlit front-end for predictions
-- `cleaned_breast_cancer_data.csv` – Preprocessed dataset
-- `*.pkl` – Trained ML models (XGBoost classifier & regressor + scaler)
+
+- `Prototype` – Trained ML models (XGBoost classifier & regressor + scaler)
+- `data` – Preprocessed dataset
+- `models` – Trained ML models (XGBoost classifier & regressor + scaler)
 - `Final Year Project.pdf` – Full dissertation report
+- `app.py` – Streamlit front-end for predictions
+- `.gitignore` – Ignore Gitignore
+- `LICENSE` – MIT License
+- `requirements.txt` – Requirements to open
 
 ## 🚀 How to Run
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
