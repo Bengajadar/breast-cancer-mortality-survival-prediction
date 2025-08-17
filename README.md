@@ -27,7 +27,6 @@ The aim is to provide healthcare professionals with a **data-driven decision sup
 
 ## 📂 Project Structure
 
-- `Prototype` – Trained ML models (XGBoost classifier & regressor + scaler)
 - `data` – Preprocessed dataset
 - `models` – Trained ML models (XGBoost classifier & regressor + scaler)
 - `Final Year Project.pdf` – Full dissertation report
